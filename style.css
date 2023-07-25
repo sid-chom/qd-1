@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+#score{
+    margin-right:400px;
+}
+#timer{
+    margin-left:400px;
+}
+#sketch{
+    text-decoration-color: navy ;
+}
